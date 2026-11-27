@@ -20,6 +20,12 @@ v1.2.0 是另一份签名（Gemini 的调试签名）打的包，Android 不允�
 2. 从 [Releases](https://github.com/ssyPromax/Inter/releases) 下载 `Inter-v1.2.1.apk` 安装。
 3. 从 v1.2.1 起，后续版本可以在应用内直接更新。
 
+## 截图
+
+| 主界面 | 检查更新 | 更新提示 |
+|---|---|---|
+| ![主界面](screenshots/01-main.png) | ![已是最新](screenshots/05-up-to-date.png) | ![发现新版本](screenshots/03-update-dialog.png) |
+
 ## 主要功能
 
 - **实时 LaTeX 输入**：离线 KaTeX 渲染分数、根号、幂次。
