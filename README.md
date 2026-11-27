@@ -107,3 +107,14 @@ python D:/.dswork/App/suite/design/gen.py --check
 ```
 
 `app/src/main/java/com/inter/calc/ui/theme/DsTokens.kt` 是生成文件，不要手改。
+
+---
+
+## 许可证
+
+本项目采用 [GNU General Public License v3.0](LICENSE)（GPL-3.0）。
+
+Copyright (C) 2026 ssyPromax
+
+你可以自由使用、修改和分发本项目的代码；如果你分发修改后的版本，
+必须以同样的 GPL-3.0 协议公开源代码。
