@@ -1,0 +1,24 @@
+# Gradle / Android Studio
+.gradle/
+.kotlin/
+build/
+**/build/
+local.properties
+.idea/
+*.iml
+captures/
+
+# 发布产物由 GitHub Release 托管，不进仓库
+*.apk
+*.aab
+dist/
+
+# 签名材料绝不提交
+keystore/
+*.jks
+*.keystore
+keystore.properties
+
+# 临时文件
+*.log
+*.part
